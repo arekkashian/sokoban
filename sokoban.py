@@ -1,4 +1,4 @@
-#need to reset screen better between stages, sometimes graphics from old stage can appear if new stage is smaller, ie the spaces that are not redrawn stay teh same
+#need to reset screen better between stages, sometimes graphics from old stage can appear if new stage is smaller, ie the spaces that are not redrawn stay the same
 
 import curses
 from random import randint

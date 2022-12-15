@@ -30,6 +30,9 @@ while True:
     if quitFlag:
         break
 
+    if stage > 4:
+        break
+
     if s == 0:
         with open(sequence1[stage]) as f:
             lines = f.readlines()
